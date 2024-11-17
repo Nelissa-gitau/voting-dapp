@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../public-20241116T201539Z-001/public"
+		},
+		{
+			"path": "../../git-20241116T203655Z-001/.git"
+		},
+		{
+			"path": "../../contracts-20241116T203804Z-001/contracts"
+		},
+		{
+			"path": "../../scripts-20241116T203851Z-001/scripts"
+		}
+	],
+	"settings": {}
+}
